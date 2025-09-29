@@ -1,16 +1,16 @@
 # CPAN-212 Lab 2
 
-This project demonstrates **callbacks, promises, async/await, file operations with fs.promises, and chained async flows** in Node.js with Express.
+This lab demonstrates **callbacks, promises, async/await, file operations with fs.promises, and chained async flows** in Node.js with Express.
 
 ---
 
 ## 📌 Endpoints
 
-- **`/callback`** → Uses callbacks with `setTimeout()`.
-- **`/promise`** → Demonstrates Promises.
-- **`/async`** → Demonstrates async/await.
-- **`/file`** → Reads `sample.txt` asynchronously using `fs.promises`.
-- **`/chain`** → Simulates a sequence: login → fetch → render using a custom `simulateDelay()`.
+- **`/callback`** → Uses callbacks with `setTimeout()`
+- **`/promise`** → Demonstrates Promises
+- **`/async`** → Demonstrates async/await
+- **`/file`** → Reads `sample.txt` asynchronously using `fs.promises`
+- **`/chain`** → Simulates a sequence: login → fetch → render using a custom `simulateDelay()`
 
 ---
 
