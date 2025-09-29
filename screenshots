@@ -1,0 +1,11 @@
+screenshots/
+   callback-success.png
+   callback-error.png
+   promise-success.png
+   promise-error.png
+   async-success.png
+   async-error.png
+   file-success.png
+   file-error.png
+   chain-success.png
+   chain-error.png
